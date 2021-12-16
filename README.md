@@ -7,3 +7,6 @@ versions named with "- Opera" means that it is for Opera
 This extension uses a "jquery" file, that means this extension is note available for FireFox
 <br> Why?
 <br> "jquery" is dangerous for FireFox testers, so they do not allow "jquery"
+### Downloads
+Download for Edge - (note yet approved)
+<br>Download for Opera - (not yet approved)
