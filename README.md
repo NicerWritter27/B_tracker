@@ -8,5 +8,5 @@ This extension uses a "jquery" file, that means this extension is note available
 <br> Why?
 <br> "jquery" is dangerous for FireFox testers, so they do not allow "jquery"
 ### Downloads
-Download for Edge - (note yet approved)
+[Download for Edge](https://microsoftedge.microsoft.com/addons/detail/fcgloilhcjdcbaeeboghchfedadbemmj)
 <br>Download for Opera - (not yet approved)
